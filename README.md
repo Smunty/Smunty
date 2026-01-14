@@ -18,5 +18,11 @@
 
 ---
 
+### 🌐
+[smunty.github.io/Smunty/](https://smunty.github.io/Smunty/)
+
+---
+
 ### 🔗 Sosyal Medya
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ismail_.t6/)
+
