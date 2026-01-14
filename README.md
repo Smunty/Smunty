@@ -18,8 +18,8 @@
 
 ---
 
-### 🌐
-[smunty.github.io/Smunty/](https://smunty.github.io/Smunty/)
+### 🌐 Öğrenci Asistanı Projem
+Öğrenci Asistanı Projem [smunty.github.io/Smunty/](https://smunty.github.io/Smunty/)
 
 ---
 
