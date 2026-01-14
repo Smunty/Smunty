@@ -18,11 +18,5 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
-![Smunty's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smunty&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smunty&layout=compact&theme=radical)
-
----
-
 ### 🔗 Sosyal Medya
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ismail_.t6/)
